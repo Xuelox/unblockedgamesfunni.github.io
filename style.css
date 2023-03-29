@@ -1,0 +1,25 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background:beige;
+}
+
+.title-center {
+  text-align: center;
+  color: #1162e4;
+}
+.subheading {
+  color: #1162e4;
+}
+
+.cool-button {
+  color: #1162e4;
+}
+
+.cool-button:hover {
+  color: #08a119;
+}
+
+.centered-object {
+  align-self: center;
+}
